@@ -21,6 +21,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# git remote remove origin https://danolez1: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@github.com/danolez1/HTM-NISEKO.git
-# git remote add origin https://danolez1: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@github.com/danolez1/HTM-Niseko.git
