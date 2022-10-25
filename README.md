@@ -44,7 +44,11 @@ You may serve it with a static server:
 
 ````bash
 npm install -g serve
+<<<<<<< HEAD
 serve -s build 
 ````
+=======
+serve -s build````
+>>>>>>> 3349ca8caf82562554709d0224c9d0b983a5dc4f
 
 Find out more about deployment [here](https://cra.link/deployment)
