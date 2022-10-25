@@ -6,8 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To run the Simple React page project for HTM-NISEKO, run the following in order:
 
-### `cd htm-niseko`
-
 ### `npm install`
 
 Install all the modules used in the package.json .\
