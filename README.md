@@ -47,4 +47,3 @@ npm install -g serve
 serve -s build```
 
 Find out more about deployment [here](https://cra.link/deployment)
-````
